@@ -1,4 +1,4 @@
-region          = "us-east1"
+region          = "europe-west2"
 gcp_project     = "eric-project-01"
 credentials     = "credentials.json"
 name            = "dev"
